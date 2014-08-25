@@ -1,8 +1,8 @@
-# Space Truckin'
-## A tile-layin' game for 2, or more players  
+# Space Truckin' 
+## A tile-layin' game for 2, or more players - Rules version 1.0
 
-The universe has expanded since the scientist Graham Pok discovered how
-to tame wormholes turning them in favourite transport medium for billions 
+The universe has expanded since scientist discovered how
+to tame wormholes turning them in favorite transport medium for billions 
 of families in several universes. 
 
 Trade flourishes in every corner but the competition is fierce and
@@ -19,7 +19,7 @@ planetary system will own the universe.
 * 20 spaceships in 2 colors
     - Each ship can be used as battleship (planetary system defense), cargo (wormhole transport), or engineers crew (scientific stations).
 
-* Board with a 9 by 9 grid.
+* Board with a 9 by 9 grid (not supplied)
  
 
 ## Overview
@@ -61,10 +61,13 @@ her turn in the same manner.
 First player **must** draw a space tile from one of the face-down
 stacks. He looks at it, shows it to his fellow players, and places it on
 the table, using the following rules:
-- The new tile must be placed so that all void, planetary system, and
-  wormhole segment on the new tile continue to void, planetary system,
-  and wormhole segments, respectively, on all abutting tiles (stations
-  are always complete within single tiles).
+
+- The new tile can be placed in any free position of the board.
+
+- If placed adjacent to another tile, the new tile must be placed so 
+  that all void, planetary system, and wormhole segment on the new tile
+  continue to void, planetary system, and wormhole segments, respectively, 
+  on all abutting tiles (stations are always complete within single tiles).
 
 - If the card shows, at least, one arrow in the corner you must check the
   quadrant occupied by the seconds hand in the clock, and align any of these 
@@ -73,6 +76,12 @@ the table, using the following rules:
 - In the circumstance where a drawn tile has no legal placement (and all
   players agree), the player discards the tile from the game and draws
   another tile to place.
+
+#### Board edges
+Opposite edges of the board are considered a continuum hence tiles in
+the same row or column but on opposite edges of the board are considered
+adjacent and players must take that into account placing tiles on the
+edge of the board.
 
 ### Deploying ships
 After the player places a space tile, she **may** deploy one of her
@@ -98,6 +107,18 @@ her turn, and so on.
 Remember: If, through the placement of the tile, planetary systems, wormholes, 
 and/or stations are completed, these are scored before moving on to the 
 next player.
+
+### Black holes
+Black hole tiles are not placed in the board. Once played they are
+taken from the game. The player that gets a black hole tile in her 
+turn can do one of these actions:
+ - Remove a cargo from an uncompleted wormhole. This cargo is lost in 
+   an unknown universe and cannot be recovered. Take the ship from the,
+   game it does not return to the pool of the owner.
+ - Exchange the position of two tiles already placed in the board. The
+   rules to place tiles must be enforced or the exchange cannot take
+   place (tiles might change its orientation to facilitate this task). 
+   Any ship placed on the tile remain on the original tile.
 
 ### Scoring completed stations, wormholes and planetary systems
 
