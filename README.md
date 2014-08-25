@@ -1,5 +1,6 @@
 # Space Truckin' 
-## A tile-layin' game for 2, or more players - Rules version 1.0
+## A tile-layin' game for 2, or more players 
+#### *Rules version 1.0*
 
 The universe has expanded since scientist discovered how
 to tame wormholes turning them in favorite transport medium for billions 
